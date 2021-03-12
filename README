@@ -14,7 +14,7 @@ sudo make install
 
 ---------------------------
 
-GUILE-HULLS provides the following module(s):
+GUILE-XYZ provides the following module(s):
 
 - (xyz xyz)
 - (xyz infos)
