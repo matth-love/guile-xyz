@@ -1,0 +1,20 @@
+
+ [ G U I L E - XYZ ]
+
+---------------------------
+
+GUILE-XYZ is a guile module for processing XYZ data.
+
+- Installation:
+
+autoreconf -vif
+./configure
+make
+sudo make install
+
+---------------------------
+
+GUILE-HULLS provides the following module(s):
+
+- (xyz xyz)
+- (xyz infos)
